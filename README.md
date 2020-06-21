@@ -3,11 +3,11 @@ Assignment
 
 This project uses React.js, webpack, victory.
 
-To install the dependencies
+To install the dependencies -->
 npm install
 
-To run the dev server
+To run the dev server --> 
 npm start
 
-To produce the production build
+To produce the production build --> 
 npm run build
